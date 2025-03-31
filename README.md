@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">About me :</h3>
+<h3 align="left">🧙‍♂️ About me :</h3>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<h6 align="left">🪄 Currently crafting a magical Next.js project ( the power of AI-driven prompts )<br><br>📖 The Apprentice's Journey at ISIMM – A Software Engineering student honing the craft at the Institute of Sorcery & Intelligent Magical Mechanics (a.k.a. ISIMM 🏫).<br><br>⚡The Web Enchantment Guild (Since 2023) – Practicing front-end and back-end spells to build mystical digital realms.🪄 The Promptopia Chronicles – Currently crafting a magical Next.js project, harnessing the power of AI-driven prompts.</h6>
+<h6 align="left" color='black'>🪄 Currently crafting a magical Next.js project ( the power of AI-driven prompts )<br><br>🎓 Software Engineering student honing the craft at the Institute of Sorcery & Intelligent Magical Mechanics (a.k.a. ISIMM 🏫)<br><br>💻 Practicing front-end and back-end spells (since 2023)</h6>
 
 ###
 
-<h3 align="left">Tech Stack :</h3>
+<h3 align="left">⚡ Tech Stack :</h3>
 
 ###
 
