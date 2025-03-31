@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left" color='black'>🪄 Currently crafting a magical Next.js project ( the power of AI-driven prompts )<br><br>🎓 Software Engineering student honing the craft at the Institute of Sorcery & Intelligent Magical Mechanics (a.k.a. ISIMM 🏫)<br><br>💻 Practicing front-end and back-end spells (since 2023)</h6>
+<h6 align="left" style="color: black;">🪄 Currently crafting a magical Next.js project ( the power of AI-driven prompts )<br><br>🎓 Software Engineering student honing the craft at the Institute of Sorcery & Intelligent Magical Mechanics (a.k.a. ISIMM 🏫)<br><br>💻 Practicing front-end and back-end spells (since 2023)</h6>
 
 ###
 
