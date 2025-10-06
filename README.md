@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left" style="color: black;">🪄 Currently crafting a magical Next.js project (AI Voice Agent Interview Platform)<br><br>🎓 Software Engineering student at the Institute of Intelligent Magical Mechanics (a.k.a. ISIMM 🏫)<br><br>💻 Practicing front-end and back-end spells (since 2023)</h6>
+<h5 align="left" style="color: black;">🪄 Currently discovering the magical world of NLP<br><br>🎓 Software Engineering student at the Institute of Intelligent Magical Mechanics (a.k.a. ISIMM 🏫)<br><br>💻 Practicing front-end and back-end spells (since 2023)</h6>
 
 ###
 
